@@ -22,8 +22,16 @@ The robot uses a differential drive system (two independent wheels and a passive
 * Power Source: 1x 18650 Li-ion Battery with a 5V boost converter step-up board
 * Switch: 1x SPST Rocker Toggle Switch
 
+  
 ## Assembly and Setup
 1. 3D print the structural parts found in the `hardware/3d-models/` folder.
 2. Wire the components according to the schematic diagram in `hardware/electronics/`.
 3. Open the `firmware/` directory in your IDE (VS Code with PlatformIO or the Arduino IDE).
 4. Flash the `main.cpp` code to your microcontroller.
+
+
+
+  <img width="443" height="405" alt="Screenshot 2026-10-02 at 1 04 53 pm" src="https://github.com/user-attachments/assets/dc3701f3-079b-413a-8ebc-b0814ab96ded" />
+
+
+<img width="684" height="395" alt="Screenshot 2026-10-02 at 12 43 19 pm" src="https://github.com/user-attachments/assets/d1035fde-e649-4760-bccc-c2f3694484a3" />
